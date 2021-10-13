@@ -1,3 +1,7 @@
+.html {
+    font-family: "consolas",'Courier New', Courier, monospace;
+}
+
 .container {
     background-color: #333;
     padding-left: 10%;
